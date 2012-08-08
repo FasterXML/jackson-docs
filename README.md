@@ -14,4 +14,4 @@ It is good companion to other existing sources, such as:
 
 # Kinds of documentation
 
-* [Presentations by Jackson team](...)
+* [Presentations by Jackson Team](https://github.com/FasterXML/jackson-docs/Presentations)
