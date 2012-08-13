@@ -15,3 +15,4 @@ It is good companion to other existing sources, such as:
 # Kinds of documentation
 
 * [Presentations by Jackson Team](https://github.com/FasterXML/jackson-docs/wiki/Presentations)
+* [External Presentations](https://github.com/FasterXML/jackson-docs/wiki/PresentationsExternal)
