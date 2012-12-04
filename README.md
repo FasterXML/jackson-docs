@@ -14,5 +14,6 @@ It is good companion to other existing sources, such as:
 
 # Kinds of documentation
 
+* [List of all known Jackson projects/components](https://github.com/FasterXML/jackson-docs/wiki/JacksonComponents)
 * [Presentations by Jackson Team](https://github.com/FasterXML/jackson-docs/wiki/Presentations)
 * [External Presentations](https://github.com/FasterXML/jackson-docs/wiki/PresentationsExternal)
