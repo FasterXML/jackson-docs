@@ -13,6 +13,8 @@ It is good companion to other existing sources, such as:
 # Kinds of documentation
 
 * [Presentations by Jackson Team, friends](../../wiki/Presentations)
+* [Where the #%($#^ are Javadocs?](../../wiki/Finding-Javadoc)
+* [List of Jackson 2.x Annotations](../../wiki/JacksonAnnotations)
 
 # Misc other
 
