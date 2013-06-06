@@ -17,7 +17,7 @@ Existing Jackson projects have some 'local' documentation, such as:
 
 * [Databind](../../../jackson-databind/)
     * List of on/off [DeserializationFeature](../../../jackson-databind/wiki/Deserialization-Features)s.
-    * List of on/off [SrializationFeature](../../../jackson-databind/wiki/Serialization-Features)s.
+    * List of on/off [SerializationFeature](../../../jackson-databind/wiki/Serialization-Features)s.
 
 # External (off-github) documentation
 
