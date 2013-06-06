@@ -29,3 +29,5 @@ Existing Jackson projects have some 'local' documentation, such as:
 # Misc other
 
 * [Old Jackson home](http://jackson.codehaus.org) is still occasionally linked to from various places -- please DO NOT link from new documentation.
+* [Jackson Git Hub](../../../jackson/) is the... The Hub for all stuff, including this project.
+
