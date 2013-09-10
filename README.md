@@ -13,7 +13,9 @@ Documentation within this project is categorized under:
 
 # Documentations within related GH projects
 
-Existing Jackson projects have some 'local' documentation, such as:
+[Jackson project hub](../../../jackson) has links to all active Jackson projects.
+
+And those projects have some 'local' documentation, such as:
 
 * [Databind](../../../jackson-databind/)
     * List of on/off [DeserializationFeature](../../../jackson-databind/wiki/Deserialization-Features)s.
@@ -21,10 +23,15 @@ Existing Jackson projects have some 'local' documentation, such as:
 
 # External (off-github) documentation
 
-* [Jackson project hub](../../../jackson) -- links to all active Jackson projects
+Following sites are good sources for documentation:
+
 * Old [FasterXML Jackson Wiki](http://wiki.fasterxml.com/JacksonHome) -- will be replaced by this project!
 * [Jackson Users forum](http://jackson-users.ning.com)
 * [CowTalk Blog](http://cowtowncoder.com/blog/blog.html)
+
+And here are good one-off articles from around the web:
+
+* [Custom polymorphic type handling with Jackson](http://www.thomaskeller.biz/blog/2013/09/10/custom-polymorphic-type-handling-with-jackson/) (2013 Sep)
 
 # Misc other
 
