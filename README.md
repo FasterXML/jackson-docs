@@ -3,9 +3,7 @@
 This project is the main hub to all kinds of documentation related to
 Jackson JSON Processor.
 
-# Structure
-
-Documentation within this project is categorized under:
+# Jackson Reference
 
 * [Presentations by Jackson Team, friends](../../wiki/Presentations)
 * [Where the #%($#^ are Javadocs?](../../wiki/Finding-Javadoc)
@@ -19,11 +17,10 @@ For your first steps in understanding how to use Jackson, following tutorials ar
 * [Jackson in N minutes](https://github.com/FasterXML/jackson-databind/) (`README` for `jackson-databind` project)
 * Older [Jackson in 5 minutes](http://wiki.fasterxml.com/JacksonInFiveMinutes) version (useful for 1.x)
 
-# Documentations within related GH projects
+# Documentation under Jackson GH projects
 
 [Jackson project hub](../../../jackson) has links to all active Jackson projects.
-
-And those projects have some 'local' documentation, such as:
+These projects contain plenty of project-specific documentation, such as:
 
 * [Streaming API](../../../jackson-core/), on/off features
     * [JsonFactory.Feature](../../../jackson-core/wiki/JsonFactory-Features)s.
@@ -34,7 +31,7 @@ And those projects have some 'local' documentation, such as:
     * [SerializationFeature](../../../jackson-databind/wiki/Serialization-Features)s.
     * [MapperFeature](../../../jackson-databind/wiki/Mapper-Features)s.
 
-# External (off-github) documentation
+# External (off-GitHub) documentation
 
 Following sites are good sources for documentation:
 
@@ -58,4 +55,3 @@ Minor versions (like 2.1 and 2.2) are backwards compatible with respect to publi
 
 * [Old Jackson home](http://jackson.codehaus.org) is still occasionally linked to from various places -- please DO NOT link from new documentation.
 * [Jackson Git Hub](../../../jackson/) is the... The Hub for all stuff, including this project.
-
