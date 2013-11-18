@@ -25,9 +25,14 @@ For your first steps in understanding how to use Jackson, following tutorials ar
 
 And those projects have some 'local' documentation, such as:
 
-* [Databind](../../../jackson-databind/)
-    * List of on/off [DeserializationFeature](../../../jackson-databind/wiki/Deserialization-Features)s.
-    * List of on/off [SerializationFeature](../../../jackson-databind/wiki/Serialization-Features)s.
+* [Streaming API](../../../jackson-core/), on/off features
+    * [JsonFactory.Feature](../../../jackson-core/wiki/JsonFactory-Features)s.
+    * [JsonGenerator.Feature](../../../jackson-core/wiki/JsonGenerator-Features)s.
+    * [JsonParser.Feature](../../../jackson-core/wiki/JsonParser-Features)s.
+* [Databind](../../../jackson-databind/), on/off features
+    * [DeserializationFeature](../../../jackson-databind/wiki/Deserialization-Features)s.
+    * [SerializationFeature](../../../jackson-databind/wiki/Serialization-Features)s.
+    * [MapperFeature](../../../jackson-databind/wiki/Mapper-Features)s.
 
 # External (off-github) documentation
 
