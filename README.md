@@ -7,7 +7,7 @@ Jackson JSON Processor.
 
 * [Presentations by Jackson Team, friends](../../wiki/Presentations)
 * [Where the #%($#^ are Javadocs?](../../wiki/Finding-Javadoc)
-* [List of Jackson 2.x Annotations](../../wiki/JacksonAnnotations)
+* [Jackson Annotations](../../wiki/JacksonAnnotations)
 
 # Tutorials
 
@@ -22,14 +22,13 @@ For your first steps in understanding how to use Jackson, following tutorials ar
 [Jackson project hub](../../../jackson) has links to all active Jackson projects.
 These projects contain plenty of project-specific documentation, such as:
 
-* [Streaming API](../../../jackson-core/), on/off features
-    * [JsonFactory.Feature](../../../jackson-core/wiki/JsonFactory-Features)s.
-    * [JsonGenerator.Feature](../../../jackson-core/wiki/JsonGenerator-Features)s.
-    * [JsonParser.Feature](../../../jackson-core/wiki/JsonParser-Features)s.
-* [Databind](../../../jackson-databind/), on/off features
-    * [DeserializationFeature](../../../jackson-databind/wiki/Deserialization-Features)s.
-    * [SerializationFeature](../../../jackson-databind/wiki/Serialization-Features)s.
-    * [MapperFeature](../../../jackson-databind/wiki/Mapper-Features)s.
+* [Core Annotations](../../../jackson-annotations)
+    * [List of Jackson Core Annotations](../../../jackson-annotations/wiki/Jackson-Annotations)
+* [Streaming API](../../../jackson-core/)
+    * On/off features: [JsonFactory.Feature](../../../jackson-core/wiki/JsonFactory-Features)s, [JsonGenerator.Feature](../../../jackson-core/wiki/JsonGenerator-Features)s,[JsonParser.Feature](../../../jackson-core/wiki/JsonParser-Features)s.
+* [Databind](../../../jackson-databind/)
+    * [Databind Annotations](../../../jackson-databind/wiki/Databind-Annotations)
+    * On/off features: [DeserializationFeature](../../../jackson-databind/wiki/Deserialization-Features)s, [SerializationFeature](../../../jackson-databind/wiki/Serialization-Features)s., [MapperFeature](../../../jackson-databind/wiki/Mapper-Features)s.
 
 # External (off-GitHub) documentation
 
