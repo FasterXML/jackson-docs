@@ -1,13 +1,5 @@
-# Overview
-
 This project is the main hub to all kinds of documentation related to
 Jackson JSON Processor.
-
-# Jackson Reference
-
-* [Presentations by Jackson Team, friends](../../wiki/Presentations)
-* [Where the #%($#^ are Javadocs?](../../wiki/Finding-Javadoc)
-* [Jackson Annotations](../../wiki/JacksonAnnotations)
 
 # Tutorials
 
@@ -16,6 +8,12 @@ For your first steps in understanding how to use Jackson, following tutorials ar
 * [Jackson Tutorial by StudyTrails](http://www.studytrails.com/java/json/java-jackson-introduction.jsp)
 * [Jackson in N minutes](https://github.com/FasterXML/jackson-databind/) (`README` for `jackson-databind` project)
 * Older [Jackson in 5 minutes](http://wiki.fasterxml.com/JacksonInFiveMinutes) version (useful for 1.x)
+
+# General
+
+* [Jackson Annotations](../../wiki/JacksonAnnotations)
+* [Where are the Javadocs?](../../wiki/Finding-Javadoc)
+* [Presentations by Jackson Team, friends](../../wiki/Presentations)
 
 # Documentation under Jackson GH projects
 
