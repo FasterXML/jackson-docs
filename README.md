@@ -40,6 +40,10 @@ And here are good one-off articles from around the web:
 
 * [Custom polymorphic type handling with Jackson](http://www.thomaskeller.biz/blog/2013/09/10/custom-polymorphic-type-handling-with-jackson/) (2013 Sep)
 
+# Sample code
+
+See [(External) Jackson Sample Code](../../wiki/ExternalJacksonSampleCode).
+
 # On Jackson versioning
 
 Note that there are two **major** Jackson versions: 1.x (1.0 - 1.9) and 2.x (2.0 - 2.3).
