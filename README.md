@@ -38,6 +38,7 @@ Following sites are good sources for documentation:
 
 And here are good one-off articles from around the web:
 
+* [Jackson JSON Tutorial by Eugen Paraschiv](http://www.baeldung.com/jackson)
 * [Custom polymorphic type handling with Jackson](http://www.thomaskeller.biz/blog/2013/09/10/custom-polymorphic-type-handling-with-jackson/) (2013 Sep)
 
 # Sample code
