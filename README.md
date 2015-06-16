@@ -36,11 +36,16 @@ Following sites are good sources for documentation:
 * [Jackson Users forum](http://jackson-users.ning.com)
 * [CowTalk Blog](http://cowtowncoder.com/blog/blog.html)
 
-And here are good one-off articles from around the web:
+And here are good articles around the web:
 
-* [Custom polymorphic type handling with Jackson](http://www.thomaskeller.biz/blog/2013/09/10/custom-polymorphic-type-handling-with-jackson/) (2013 Sep)
-* [A Guide to Jackson Annotations](http://www.baeldung.com/jackson-annotations) by Baeldung
-* [Jackson JSON Tutorial by Eugen Paraschiv](http://www.baeldung.com/jackson)
+* General usage
+    * [Jackson JSON Tutorial by Eugen Paraschiv](http://www.baeldung.com/jackson)
+* Jackson annotations:
+    * [A Guide to Jackson Annotations](http://www.baeldung.com/jackson-annotations) by Baeldung
+* Polymorphic type handling:
+    * [Custom polymorphic type handling with Jackson](http://www.thomaskeller.biz/blog/2013/09/10/custom-polymorphic-type-handling-with-jackson/) (2013 Sep)
+* Other data formats beyond JSON
+    * [Writing CSV using Jackson CSVMapper & Mixin annotations] (http://demeranville.com/writing-csv-using-jackson-csvmapper-mixin-annotations)
 
 # Sample code
 
