@@ -45,9 +45,7 @@ And here are good articles around the web:
 * Other data formats beyond JSON
     * [Writing CSV using Jackson CSVMapper & Mixin annotations] (http://demeranville.com/writing-csv-using-jackson-csvmapper-mixin-annotations)
 
-# Participation
-
-## Participation
+# Participating
 
 The easiest ways to participate is to join one of Jackson mailing lists (Jackson google groups):
 
