@@ -44,6 +44,9 @@ And here are good articles around the web:
     * [Custom polymorphic type handling with Jackson](http://www.thomaskeller.biz/blog/2013/09/10/custom-polymorphic-type-handling-with-jackson/) (2013 Sep)
 * Other data formats beyond JSON
     * [Writing CSV using Jackson CSVMapper & Mixin annotations] (http://demeranville.com/writing-csv-using-jackson-csvmapper-mixin-annotations)
+* Platform-specific Jackson integration
+    * [Apache CXF](http://cxf.apache.org/)
+        * [Configuring Snake Case naming](https://mahichir.wordpress.com/2015/07/08/cxf-configuration-to-produce-json-snake-case-underscore-case-formatted-data-using-jackson-json-library/)
 
 # Participating
 
