@@ -38,8 +38,13 @@ And here are good articles around the web:
 
 * General usage
     * [Jackson JSON Tutorial by Eugen Paraschiv](http://www.baeldung.com/jackson)
+    * [Jackson - Installation](http://tutorials.jenkov.com/java-json/jackson-installation.html) at Jenkov.com
 * Jackson annotations:
     * [A Guide to Jackson Annotations](http://www.baeldung.com/jackson-annotations) by Baeldung
+    * [Jackson Annotations](http://tutorials.jenkov.com/java-json/jackson-annotations.html) at Jenkov.com
+* Streaming reading/writing
+    * [Jackson - JsonParser](http://tutorials.jenkov.com/java-json/jackson-jsonparser.html)
+    * [Jackson - JsonGenerator](http://tutorials.jenkov.com/java-json/jackson-jsongenerator.html)
 * Polymorphic type handling:
     * [Custom polymorphic type handling with Jackson](http://www.thomaskeller.biz/blog/2013/09/10/custom-polymorphic-type-handling-with-jackson/) (2013 Sep)
 * Other data formats beyond JSON
