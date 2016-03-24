@@ -11,7 +11,13 @@ For your first steps in understanding how to use Jackson, following tutorials ar
 
 # General
 
-* [Jackson Annotations](../../wiki/JacksonAnnotations)
+## Annotations
+
+* [Jackson Annotations](../../wiki/JacksonAnnotations) (reference
+* [Advanced Jackson annotations](http://www.baeldung.com/jackson-advanced-annotations)
+
+## Other
+
 * [Where are the Javadocs?](../../wiki/Finding-Javadoc)
 * [Presentations by Jackson Team, friends](../../wiki/Presentations)
 
