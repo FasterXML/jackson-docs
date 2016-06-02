@@ -45,6 +45,7 @@ And here are good articles around the web:
 * General usage
     * [Jackson JSON Tutorial by Eugen Paraschiv](http://www.baeldung.com/jackson)
     * [Jackson - Installation](http://tutorials.jenkov.com/java-json/jackson-installation.html) at Jenkov.com
+    * [Processing JSON with Jackson](https://dzone.com/articles/processing-json-with-jackson) (DZone)
 * Jackson annotations:
     * [A Guide to Jackson Annotations](http://www.baeldung.com/jackson-annotations) by Baeldung
     * [Jackson Annotations](http://tutorials.jenkov.com/java-json/jackson-annotations.html) at Jenkov.com
