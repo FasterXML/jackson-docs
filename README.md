@@ -57,7 +57,7 @@ And here are good articles around the web:
     * [Custom polymorphic type handling with Jackson](http://www.thomaskeller.biz/blog/2013/09/10/custom-polymorphic-type-handling-with-jackson/) (2013 Sep)
 * Other data formats beyond JSON
     * [Writing CSV using Jackson CSVMapper & Mixin annotations] (http://demeranville.com/writing-csv-using-jackson-csvmapper-mixin-annotations)
-    * [Reading, Writing Java Properties with Jackson](ttps://medium.com/@cowtowncoder/reading-writing-java-properties-files-using-jackson-2-8-efd7a8da9d4c#.mv82no23b)
+    * [Reading, Writing Java Properties with Jackson](https://medium.com/@cowtowncoder/reading-writing-java-properties-files-using-jackson-2-8-efd7a8da9d4c#.mv82no23b)
     * [Read YAML in Java with Jackson](https://dzone.com/articles/read-yaml-in-java-with-jackson)
 * Platform-specific Jackson integration
     * [Apache CXF](http://cxf.apache.org/)
