@@ -13,7 +13,7 @@ For your first steps in understanding how to use Jackson, following tutorials ar
 
 ## Annotations
 
-* [Jackson Annotations](../../wiki/JacksonAnnotations) (reference
+* [Jackson Annotations](../../wiki/JacksonAnnotations)
 * [Advanced Jackson annotations](http://www.baeldung.com/jackson-advanced-annotations)
 
 ## Other
@@ -46,6 +46,7 @@ And here are good articles around the web:
     * [Jackson JSON Tutorial by Eugen Paraschiv](http://www.baeldung.com/jackson)
     * [Jackson - Installation](http://tutorials.jenkov.com/java-json/jackson-installation.html) at Jenkov.com
     * [Processing JSON with Jackson](https://dzone.com/articles/processing-json-with-jackson) (DZone)
+    * [Jackson jr for casual JSON processing](https://medium.com/@cowtowncoder/jackson-jr-for-casual-json-reading-writing-from-java-f5d379d4bcb6#.i2j15cce8)
 * Jackson annotations:
     * [A Guide to Jackson Annotations](http://www.baeldung.com/jackson-annotations) by Baeldung
     * [Jackson Annotations](http://tutorials.jenkov.com/java-json/jackson-annotations.html) at Jenkov.com
@@ -56,6 +57,7 @@ And here are good articles around the web:
     * [Custom polymorphic type handling with Jackson](http://www.thomaskeller.biz/blog/2013/09/10/custom-polymorphic-type-handling-with-jackson/) (2013 Sep)
 * Other data formats beyond JSON
     * [Writing CSV using Jackson CSVMapper & Mixin annotations] (http://demeranville.com/writing-csv-using-jackson-csvmapper-mixin-annotations)
+    * [Reading, Writing Java Properties with Jackson](ttps://medium.com/@cowtowncoder/reading-writing-java-properties-files-using-jackson-2-8-efd7a8da9d4c#.mv82no23b)
     * [Read YAML in Java with Jackson](https://dzone.com/articles/read-yaml-in-java-with-jackson)
 * Platform-specific Jackson integration
     * [Apache CXF](http://cxf.apache.org/)
