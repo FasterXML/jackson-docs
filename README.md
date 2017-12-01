@@ -18,7 +18,7 @@ For your first steps in understanding how to use Jackson, following tutorials ar
 
 ## Frameworks, Platforms
 
-* [Jackson on Android](JacksonOnAndroid) (proguard definitions)
+* [Jackson on Android](../../wiki/JacksonOnAndroid) (proguard definitions)
 
 ## JVM Languages beyond Java
 
