@@ -16,6 +16,14 @@ For your first steps in understanding how to use Jackson, following tutorials ar
 * [Jackson Annotations](../../wiki/JacksonAnnotations)
 * [Advanced Jackson annotations](http://www.baeldung.com/jackson-advanced-annotations)
 
+## Frameworks, Platforms
+
+* [Jackson on Android](JacksonOnAndroid) (proguard definitions)
+
+## JVM Languages beyond Java
+
+(need links to Scala, Kotlin, Clojure tutorials, articles)
+
 ## Other
 
 * [Where are the Javadocs?](../../wiki/Finding-Javadoc)
@@ -55,8 +63,8 @@ And here are good articles around the web:
     * [Jackson - JsonGenerator](http://tutorials.jenkov.com/java-json/jackson-jsongenerator.html)
 * Polymorphic type handling:
     * [Custom polymorphic type handling with Jackson](http://www.thomaskeller.biz/blog/2013/09/10/custom-polymorphic-type-handling-with-jackson/) (2013 Sep)
-* Other data formats beyond JSON
-    * [Writing CSV using Jackson CSVMapper & Mixin annotations] (http://demeranville.com/writing-csv-using-jackson-csvmapper-mixin-annotations)
+* Data formats beyond JSON
+    * [Writing CSV using Jackson CSVMapper & Mixin annotations](http://demeranville.com/writing-csv-using-jackson-csvmapper-mixin-annotations)
     * [Reading, Writing Java Properties with Jackson](https://medium.com/@cowtowncoder/reading-writing-java-properties-files-using-jackson-2-8-efd7a8da9d4c#.mv82no23b)
     * [Read YAML in Java with Jackson](https://dzone.com/articles/read-yaml-in-java-with-jackson)
 * Platform-specific Jackson integration
