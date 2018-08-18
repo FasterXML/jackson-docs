@@ -40,7 +40,7 @@ These projects contain plenty of project-specific documentation, such as:
     * On/off features: [JsonFactory.Feature](../../../jackson-core/wiki/JsonFactory-Features)s, [JsonGenerator.Feature](../../../jackson-core/wiki/JsonGenerator-Features)s,[JsonParser.Feature](../../../jackson-core/wiki/JsonParser-Features)s.
 * [Databind](../../../jackson-databind/)
     * [Databind Annotations](../../../jackson-databind/wiki/Databind-Annotations)
-    * On/off features: [DeserializationFeature](../../../jackson-databind/wiki/Deserialization-Features)s, [SerializationFeature](../../../jackson-databind/wiki/Serialization-Features)s., [MapperFeature](../../../jackson-databind/wiki/Mapper-Features)s.
+    * On/off features: [DeserializationFeature](../../../jackson-databind/wiki/Deserialization-Features)s, [SerializationFeature](../../../jackson-databind/wiki/Serialization-Features)s, [MapperFeature](../../../jackson-databind/wiki/Mapper-Features)s.
 
 # External (off-GitHub) documentation
 
