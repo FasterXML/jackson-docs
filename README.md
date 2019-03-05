@@ -44,9 +44,10 @@ These projects contain plenty of project-specific documentation, such as:
 
 # External (off-GitHub) documentation
 
-Following sites are good sources for documentation:
+Blogs that regularly write about Jackson include
 
-* [CowTalk Blog](http://cowtowncoder.com/blog/blog.html)
+* [Cowtowncoder @Medium](https://medium.com/@cowtowncoder)
+* [CowTalk Blog](http://cowtowncoder.com/blog/blog.html) (old, getting obsolete)
 
 And here are good articles around the web:
 
@@ -59,6 +60,8 @@ And here are good articles around the web:
     * [A Guide to Jackson Annotations](http://www.baeldung.com/jackson-annotations) by Baeldung
     * [Jackson Annotations](http://tutorials.jenkov.com/java-json/jackson-annotations.html) at Jenkov.com
 * Streaming reading/writing
+    * [Customize serialization with Jackson Annotations](https://medium.com/trabe/customize-your-serialization-using-jackson-annotations-d6b81c4785a6)
+* Streaming API
     * [Jackson - JsonParser](http://tutorials.jenkov.com/java-json/jackson-jsonparser.html)
     * [Jackson - JsonGenerator](http://tutorials.jenkov.com/java-json/jackson-jsongenerator.html)
 * Polymorphic type handling:
