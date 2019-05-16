@@ -94,7 +94,7 @@ See [(External) Jackson Sample Code](../../wiki/ExternalJacksonSampleCode).
 
 # On Jackson versioning
 
-Note that there are two **major** Jackson versions: 1.x (1.0 - 1.9) and 2.x (2.0 - 2.3).
+Note that there are two **major** Jackson versions: 1.x (1.0 - 1.9) and 2.x (2.0 - 2.9).
 These versions can co-exist as they are located in different Java package and use different jar naming and Maven group/artifact ids.
 But this means that you have to make sure that all components in use have matching major versions: specifically, Jackson 2.x code does NOT understand or support Jackson 1.x annotations, or vice versa.
 
