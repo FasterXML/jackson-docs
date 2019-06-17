@@ -1,4 +1,4 @@
-This project is the main hub to all kinds of documentation related to
+This project is the main hub to all kinds of documentation related to the
 Jackson JSON Processor.
 
 # Tutorials
@@ -44,7 +44,7 @@ These projects contain plenty of project-specific documentation, such as:
 
 # External (off-GitHub) documentation
 
-Blogs that regularly write about Jackson include
+Blogs that regularly write about Jackson include:
 
 * [Cowtowncoder @Medium](https://medium.com/@cowtowncoder)
 * [CowTalk Blog](http://cowtowncoder.com/blog/blog.html) (old, getting obsolete)
@@ -95,7 +95,7 @@ See [(External) Jackson Sample Code](../../wiki/ExternalJacksonSampleCode).
 # On Jackson versioning
 
 Note that there are two **major** Jackson versions: 1.x (1.0 - 1.9) and 2.x (2.0 - 2.9).
-These versions can co-exist as they are located in different Java package and use different jar naming and Maven group/artifact ids.
+These versions can co-exist as they are located in different Java packages and use different jar naming and Maven group/artifact ids.
 But this means that you have to make sure that all components in use have matching major versions: specifically, Jackson 2.x code does NOT understand or support Jackson 1.x annotations, or vice versa.
 
 Minor versions (like 2.1 and 2.2) are backwards compatible with respect to public API: old code should work without recompilation, if (but only if) it relies on external API; public methods, annotations. When overriding internal functionality, we try hard to maintain backwards compatibility between adjacent minor versions; need for changes is indicated by deprecating internal methods. Recompilation is thus recommended when extending by sub-classing, for example.
