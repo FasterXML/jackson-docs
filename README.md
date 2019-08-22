@@ -5,9 +5,11 @@ Jackson JSON Processor.
 
 For your first steps in understanding how to use Jackson, following tutorials are good places to start:
 
-* [Jackson Tutorial by StudyTrails](http://www.studytrails.com/java/json/java-jackson-introduction.jsp)
+* [Baeldung Jackson JSON Tutorial](https://www.baeldung.com/jackson)
 * [Jackson in N minutes](https://github.com/FasterXML/jackson-databind/) (`README` for `jackson-databind` project)
-* Older [Jackson in 5 minutes](http://wiki.fasterxml.com/JacksonInFiveMinutes) version (useful for 1.x)
+* [Jenkov.com Jackson Tutorial](http://tutorials.jenkov.com/java-json/index.html)
+* [LogicBig.com Jackson Tutorial](https://www.logicbig.com/tutorials/misc/jackson.html)
+* [StudyTrails Jackson Introduction](http://www.studytrails.com/java/json/java-jackson-introduction/)
 
 # General
 
