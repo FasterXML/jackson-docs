@@ -10,7 +10,7 @@ For your first steps in understanding how to use Jackson, following tutorials ar
 * [Jenkov.com Jackson Tutorial](http://tutorials.jenkov.com/java-json/index.html)
 * [JournalDev JacksonTutorial](https://www.journaldev.com/2324/jackson-json-java-parser-api-example-tutorial)
 * [LogicBig.com Jackson Tutorial](https://www.logicbig.com/tutorials/misc/jackson.html)
-* [Mkyong.com's Jackson Tutorial](https://www.mkyong.com/java/jackson-how-to-parse-json/)
+* [Mkyong.com's Jackson Tutorial](https://www.mkyong.com/java/jackson-how-to-parse-json/) (part of larger [Java JSON Tutorials](https://www.mkyong.com/tutorials/java-json-tutorials)
 * [StudyTrails Jackson Introduction](http://www.studytrails.com/java/json/java-jackson-introduction/)
 
 # General
