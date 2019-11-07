@@ -17,7 +17,8 @@ For your first steps in understanding how to use Jackson, following tutorials ar
 
 ## Annotations
 
-* [Jackson Annotations](../../wiki/JacksonAnnotations)
+* [Customize your Java-JSON serialization using Jackson Annotations](https://medium.com/trabe/customize-your-serialization-using-jackson-annotations-d6b81c4785a6)
+* [Jackson Annotations](../../wiki/JacksonAnnotations) (overview)
 * [Advanced Jackson annotations](http://www.baeldung.com/jackson-advanced-annotations)
 
 ## Frameworks, Platforms
