@@ -7,6 +7,7 @@ For your first steps in understanding how to use Jackson, following tutorials ar
 
 * [Baeldung Jackson JSON Tutorial](https://www.baeldung.com/jackson)
 * [Jackson in N minutes](https://github.com/FasterXML/jackson-databind/) (`README` for `jackson-databind` project)
+* [TedBlob Jackson Tutorial](https://tedblob.com/category/java/jackson/)
 * [Jenkov.com Jackson Tutorial](http://tutorials.jenkov.com/java-json/index.html)
 * [JournalDev JacksonTutorial](https://www.journaldev.com/2324/jackson-json-java-parser-api-example-tutorial)
 * [LogicBig.com Jackson Tutorial](https://www.logicbig.com/tutorials/misc/jackson.html)
