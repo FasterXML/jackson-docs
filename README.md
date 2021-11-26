@@ -7,12 +7,12 @@ For your first steps in understanding how to use Jackson, following tutorials ar
 
 * [Baeldung Jackson JSON Tutorial](https://www.baeldung.com/jackson)
 * [Jackson in N minutes](https://github.com/FasterXML/jackson-databind/) (`README` for `jackson-databind` project)
-* [TedBlob Jackson Tutorial](https://tedblob.com/category/java/jackson/)
 * [Jenkov.com Jackson Tutorial](http://tutorials.jenkov.com/java-json/index.html)
 * [JournalDev JacksonTutorial](https://www.journaldev.com/2324/jackson-json-java-parser-api-example-tutorial)
 * [LogicBig.com Jackson Tutorial](https://www.logicbig.com/tutorials/misc/jackson.html)
 * [Mkyong.com's Jackson Tutorial](https://www.mkyong.com/java/jackson-how-to-parse-json/) (part of larger [Java JSON Tutorials](https://www.mkyong.com/tutorials/java-json-tutorials)
 * [StudyTrails Jackson Introduction](http://www.studytrails.com/java/json/java-jackson-introduction/)
+* [TedBlob Jackson Tutorial](https://tedblob.com/category/java/jackson/)
 
 # General
 
@@ -63,15 +63,16 @@ And here are good articles around the web:
     * [Processing JSON with Jackson](https://dzone.com/articles/processing-json-with-jackson) (DZone)
     * [Jackson jr for casual JSON processing](https://medium.com/@cowtowncoder/jackson-jr-for-casual-json-reading-writing-from-java-f5d379d4bcb6#.i2j15cce8)
 * Jackson annotations:
+    * [Customize serialization with Jackson Annotations](https://medium.com/trabe/customize-your-serialization-using-jackson-annotations-d6b81c4785a6)
     * [A Guide to Jackson Annotations](http://www.baeldung.com/jackson-annotations) by Baeldung
     * [Jackson Annotations](http://tutorials.jenkov.com/java-json/jackson-annotations.html) at Jenkov.com
-* Streaming reading/writing
-    * [Customize serialization with Jackson Annotations](https://medium.com/trabe/customize-your-serialization-using-jackson-annotations-d6b81c4785a6)
+* Misc configuration
+    * [Jackson deserialize snake case to camel case](https://tedblob.com/jackson-deserialize-snake-case-to-camel-case/) at TedBlob
 * Streaming API
-    * [Jackson JsonParser](https://tedblob.com/jackson-jsonparser/) at TedBlob
     * [Jackson - JsonParser](http://tutorials.jenkov.com/java-json/jackson-jsonparser.html) at Jenkov.com
-    * [Jackson JsonGenerator](https://tedblob.com/jackson-jsongenerator/) at TedBlob
+    * [Jackson JsonParser](https://tedblob.com/jackson-jsonparser/) at TedBlob
     * [Jackson - JsonGenerator](http://tutorials.jenkov.com/java-json/jackson-jsongenerator.html) at Jenkov.com
+    * [Jackson JsonGenerator](https://tedblob.com/jackson-jsongenerator/) at TedBlob
 * Polymorphic type handling:
     * [Custom polymorphic type handling with Jackson](http://www.thomaskeller.biz/blog/2013/09/10/custom-polymorphic-type-handling-with-jackson/) (2013 Sep)
 * Data formats beyond JSON
@@ -81,7 +82,6 @@ And here are good articles around the web:
 * Platform-specific Jackson integration
     * [Apache CXF](http://cxf.apache.org/)
         * [Configuring Snake Case naming](https://mahichir.wordpress.com/2015/07/08/cxf-configuration-to-produce-json-snake-case-underscore-case-formatted-data-using-jackson-json-library/)
-        *  [Jackson deserialize snake case to camel case](https://tedblob.com/jackson-deserialize-snake-case-to-camel-case/) at TedBlob
 
 # Participating
 
@@ -103,7 +103,7 @@ See [(External) Jackson Sample Code](../../wiki/ExternalJacksonSampleCode).
 
 # On Jackson versioning
 
-Note that there are two **major** Jackson versions: 1.x (1.0 - 1.9) and 2.x (2.0 - 2.9).
+Note that there are two **major** Jackson versions: 1.x (1.0 - 1.9) and 2.x (2.0 - 2.13).
 These versions can co-exist as they are located in different Java packages and use different jar naming and Maven group/artifact ids.
 But this means that you have to make sure that all components in use have matching major versions: specifically, Jackson 2.x code does NOT understand or support Jackson 1.x annotations, or vice versa.
 
@@ -111,5 +111,4 @@ Minor versions (like 2.1 and 2.2) are backwards compatible with respect to publi
 
 # Misc other
 
-* [Old Jackson home](http://jackson.codehaus.org) is still occasionally linked to from various places -- please DO NOT link from new documentation.
-* [Jackson Git Hub](../../../jackson/) is the... The Hub for all stuff, including this project.
+* [Jackson Github Hub](../../../jackson/) is the... The Hub for all stuff, including this project.
