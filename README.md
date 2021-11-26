@@ -7,6 +7,7 @@ For your first steps in understanding how to use Jackson, following tutorials ar
 
 * [Baeldung Jackson JSON Tutorial](https://www.baeldung.com/jackson)
 * [Jackson in N minutes](https://github.com/FasterXML/jackson-databind/) (`README` for `jackson-databind` project)
+* [TedBlob Jackson Tutorial](https://tedblob.com/category/java/jackson/)
 * [Jenkov.com Jackson Tutorial](http://tutorials.jenkov.com/java-json/index.html)
 * [JournalDev JacksonTutorial](https://www.journaldev.com/2324/jackson-json-java-parser-api-example-tutorial)
 * [LogicBig.com Jackson Tutorial](https://www.logicbig.com/tutorials/misc/jackson.html)
@@ -67,8 +68,10 @@ And here are good articles around the web:
 * Streaming reading/writing
     * [Customize serialization with Jackson Annotations](https://medium.com/trabe/customize-your-serialization-using-jackson-annotations-d6b81c4785a6)
 * Streaming API
-    * [Jackson - JsonParser](http://tutorials.jenkov.com/java-json/jackson-jsonparser.html)
-    * [Jackson - JsonGenerator](http://tutorials.jenkov.com/java-json/jackson-jsongenerator.html)
+    * [Jackson JsonParser](https://tedblob.com/jackson-jsonparser/) at TedBlob
+    * [Jackson - JsonParser](http://tutorials.jenkov.com/java-json/jackson-jsonparser.html) at Jenkov.com
+    * [Jackson JsonGenerator](https://tedblob.com/jackson-jsongenerator/) at TedBlob
+    * [Jackson - JsonGenerator](http://tutorials.jenkov.com/java-json/jackson-jsongenerator.html) at Jenkov.com
 * Polymorphic type handling:
     * [Custom polymorphic type handling with Jackson](http://www.thomaskeller.biz/blog/2013/09/10/custom-polymorphic-type-handling-with-jackson/) (2013 Sep)
 * Data formats beyond JSON
@@ -78,6 +81,7 @@ And here are good articles around the web:
 * Platform-specific Jackson integration
     * [Apache CXF](http://cxf.apache.org/)
         * [Configuring Snake Case naming](https://mahichir.wordpress.com/2015/07/08/cxf-configuration-to-produce-json-snake-case-underscore-case-formatted-data-using-jackson-json-library/)
+        *  [Jackson deserialize snake case to camel case](https://tedblob.com/jackson-deserialize-snake-case-to-camel-case/) at TedBlob
 
 # Participating
 
