@@ -43,7 +43,9 @@ These projects contain plenty of project-specific documentation, such as:
 * [Core Annotations](../../../jackson-annotations)
     * [List of Jackson Core Annotations](../../../jackson-annotations/wiki/Jackson-Annotations)
 * [Streaming API](../../../jackson-core/)
-    * On/off features: [JsonFactory.Feature](../../../jackson-core/wiki/JsonFactory-Features)s, [JsonGenerator.Feature](../../../jackson-core/wiki/JsonGenerator-Features)s,[JsonParser.Feature](../../../jackson-core/wiki/JsonParser-Features)s.
+    * On/off features, per-factory: [JsonFactory.Feature](../../../jackson-core/wiki/JsonFactory-Features)s
+    * On/off features, reading: [StreamReadFeature](../../../jackson-core/wiki/StreamReadFeatures)s, [JsonReadFeature](../../../jackson-core/wiki/JsonReadFeatures)s, [JsonParser.Feature](../../../jackson-core/wiki/JsonParser-Features)s.
+    * On/off features, writing: [StreamWriteFeature](../../../jackson-core/wiki/StreamWriteFeatures)s, [JsonWriteFeature](../../../jackson-core/wiki/JsonWriteFeatures)s, [JsonGenerator.Feature](../../../jackson-core/wiki/JsonGenerator-Features)s
 * [Databind](../../../jackson-databind/)
     * [Databind Annotations](../../../jackson-databind/wiki/Databind-Annotations)
     * On/off features: [DeserializationFeature](../../../jackson-databind/wiki/Deserialization-Features)s, [SerializationFeature](../../../jackson-databind/wiki/Serialization-Features)s, [MapperFeature](../../../jackson-databind/wiki/Mapper-Features)s.
